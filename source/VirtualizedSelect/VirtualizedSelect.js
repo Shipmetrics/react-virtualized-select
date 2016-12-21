@@ -1,6 +1,6 @@
 /** @flow */
 import React, { Component, PropTypes } from 'react'
-import Select from 'react-select'
+import Select from 'react-select-plus'
 
 // Import directly to avoid Webpack bundling the parts of react-virtualized that we are not using
 import AutoSizer from 'react-virtualized/dist/commonjs/AutoSizer'

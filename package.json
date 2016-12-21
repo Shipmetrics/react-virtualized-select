@@ -102,10 +102,10 @@
     "postcss": "^5.0.14",
     "postcss-cli": "^2.3.3",
     "postcss-loader": "^0.8.0",
-    "react": "^15.2.1",
-    "react-addons-shallow-compare": "^15.2.1",
-    "react-addons-test-utils": "^15.2.1",
-    "react-dom": "^15.2.1",
+    "react": "^15.4.0",
+    "react-addons-shallow-compare": "^15.4.0",
+    "react-addons-test-utils": "^15.4.0",
+    "react-dom": "^15.4.0",
     "react-select": "^1.0.0-rc.2",
     "react-transform-catch-errors": "^1.0.2",
     "react-transform-hmr": "^1.0.2",
@@ -121,11 +121,12 @@
   "dependencies": {
     "babel-runtime": "^6.11.6",
     "react-select": "^1.0.0-beta14",
+    "react-select-plus": "^1.0.0-rc.1.patch3",
     "react-virtualized": "^8.0.5"
   },
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0",
-    "react-addons-shallow-compare": "^0.14.0 || ^15.0.0",
-    "react-dom": "^0.14.0 || ^15.0.0"
+    "react": "^15.4.0",
+    "react-addons-shallow-compare": "^15.4.0",
+    "react-dom": "^15.4.0"
   }
 }
